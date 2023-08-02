@@ -25,6 +25,7 @@ The features in the dataset include:
 - Sulphates
 - Alcohol
 - quality
+  
 The target variable is the quality score, which is an integer value between 3 and 8, with higher values indicating better wine quality.
 
 ## Project Structure
